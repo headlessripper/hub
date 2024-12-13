@@ -42,5 +42,9 @@
     {
         "name": "PassGuardX v2.0", 
         "url": "https://github.com/headlessripper/hub/releases/download/03.02/PassGuardX.2.zip"
+    },
+    {
+        "name": "PassGuardX v3.0", 
+        "url": "https://github.com/headlessripper/hub/releases/download/03.02/PassGuardX.3.zip"
     }
 ]
