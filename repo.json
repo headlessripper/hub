@@ -36,15 +36,7 @@
         "url": "https://github.com/headlessripper/App-HubX/releases/download/v1.0/App-HubX.zip"
     },
     {
-        "name": "PassGuardX v1.0", 
-        "url": "https://github.com/headlessripper/hub/releases/download/03.02/PassGuardX.zip"
-    },
-    {
-        "name": "PassGuardX v2.0", 
-        "url": "https://github.com/headlessripper/hub/releases/download/03.02/PassGuardX.2.zip"
-    },
-    {
         "name": "PassGuardX v3.0", 
-        "url": "https://github.com/headlessripper/hub/releases/download/03.02/PassGuardX.3.zip"
+        "url": "https://github.com/headlessripper/PassGuardX/releases/download/v1.0.2/PassGuardX-v6.zip"
     }
 ]
